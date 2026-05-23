@@ -16,6 +16,20 @@ The project was designed to simulate a real-world HR analytics business case.
 
 ---
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview Dashboard](https://github.com/praveensaroj/HR-Employee-Attrition-Analysis-PowerBI/blob/main/Dashboard_Screenshots/Executive_Overview_Dashboard.png?raw=true)
+
+---
+
+### Root Cause Analysis
+
+![Root Cause Analysis Dashboard](https://github.com/praveensaroj/HR-Employee-Attrition-Analysis-PowerBI/blob/main/Dashboard_Screenshots/Root_Cause_Analysis_Dashboard.png?raw=true)
+
+---
+
 ## Business Problem
 
 Employee attrition creates:
@@ -80,20 +94,6 @@ Includes:
 - KPI Design
 - Interactive Tooltips
 - Conditional Formatting
-
----
-
-## Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview Dashboard](https://github.com/praveensaroj/HR-Employee-Attrition-Analysis-PowerBI/blob/main/Dashboard_Screenshots/Executive_Overview_Dashboard.png?raw=true)
-
----
-
-### Root Cause Analysis
-
-![Root Cause Analysis Dashboard](https://github.com/praveensaroj/HR-Employee-Attrition-Analysis-PowerBI/blob/main/Dashboard_Screenshots/Root_Cause_Analysis_Dashboard.png?raw=true)
 
 ---
 
